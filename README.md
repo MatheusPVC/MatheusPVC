@@ -105,7 +105,7 @@ Olá, meu nome é Matheus Curide, tenho 20 anos e sou natural de Paulista, Perna
     alt="GitHub Stats" 
     title="GitHub Stats"
     height="200"  
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=4" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=7" 
 />
 
 

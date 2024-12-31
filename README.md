@@ -95,7 +95,7 @@ Olá, meu nome é Matheus Curide, tenho 20 anos e sou natural de Paulista, Perna
     align="left" 
     alt="GitHub Stats" 
     title="GitHub Stats"
-    height="200px" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=MatheusPVC&show_icons=true&theme=merko&all_commits=true&locale=pt-br" 
 />
@@ -104,8 +104,7 @@ Olá, meu nome é Matheus Curide, tenho 20 anos e sou natural de Paulista, Perna
     align="left" 
     alt="GitHub Stats" 
     title="GitHub Stats"
-    height="200px" 
-    style="padding-right: 10px;" 
+    height="200"  
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=4" 
 />
 
